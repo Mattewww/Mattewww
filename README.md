@@ -2,7 +2,7 @@
 
 **`Aspiring 16yo developer from Poland :>`**
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+"Passionate about turning ideas into functional, impactful solutions through clean and efficient code. From brainstorming to deploying real-world applications, for some it’s just coding, but for me, it’s a form of art."
 
   <p align="left">
      <a href="mailto:mateusz_torzynski@o2.pl">
