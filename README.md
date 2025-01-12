@@ -1,4 +1,6 @@
-# Hi, I'm Matthew🔱
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi!+👋,+I'm+Matthew!;Welcome+to+my+profile+🤗" />
+</h1>
 
 **`Aspiring 16yo developer from Poland :>`**
 
