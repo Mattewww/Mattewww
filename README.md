@@ -39,9 +39,9 @@
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattewww&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mattewww" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mattewww&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mattewww" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattewww&show_icons=true&locale=en&theme=tokyonight" alt="mattew" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattewww&show_icons=true&locale=en&theme=tokyonight" alt="mattew" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
