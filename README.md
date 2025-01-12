@@ -43,5 +43,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattewww&show_icons=true&locale=en&theme=tokyonight" alt="mattew" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mattewww/mattewww/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mattewww/mattewww/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mattewww/mattewww/output/github-snake.svg" />
+</picture>
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
