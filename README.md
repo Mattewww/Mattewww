@@ -36,13 +36,12 @@
 <br />
 
 
-<!-- [<img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
-
 #
 
 ### 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mattewww&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mattewww" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattewww&show_icons=true&locale=en&theme=tokyonight" alt="mattew" /></p>
 
@@ -51,6 +50,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mattewww/mattewww/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mattewww/mattewww/output/github-snake.svg" />
 </picture>
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
